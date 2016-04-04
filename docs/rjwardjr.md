@@ -1,5 +1,7 @@
-- [ ] Richard Ward
-- [ ] North Carolina
-- [ ] Pie
-- [ ] Woodworking
-- [ ] Blue
+- Richard Ward
+- North Carolina
+- Programmer
+- Pie
+- Woodworking
+- Blue
+- 
